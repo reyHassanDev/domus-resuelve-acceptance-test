@@ -2,7 +2,7 @@
 
 Repositorio con las pruebas de aceptación (Acceptance Tests) del producto **Resuelve**, de la startup **Domus**.
 
-- Curso: 1ASI0397 Especificación y Análisis de Requisitos (UPC)
+- Curso: 1ASI0397 Especificación y Análisis de Requisitos
 - NRC: 16925
 - Entrega: Cuarto Avance, Final Project
 
